@@ -1,5 +1,5 @@
 - 👀 I’m interested in web development, AI-powered tools, and digital product design  
-- 🌱 I’m currently learning advanced JavaScript, TypeScript, and AI integrations using OpenAI APIs  
+- 🌱 I’m currently learning advanced JavaScript, TypeScript, and AI integrations using AI APIs  
 - 💞️ I’m looking to collaborate on innovative SaaS projects, AI chatbots, and full-stack apps  
   
 
